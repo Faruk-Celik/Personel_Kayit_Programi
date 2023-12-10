@@ -1,7 +1,5 @@
 # Personel Kayıt Programı
 
-![image](https://github.com/Faruk-Celik/Personel_Kayit_Programi/assets/72822335/aa0993a0-39f6-433c-a8f4-403dac8c7fbc)
-
 <br/>
 
 ![image](https://github.com/Faruk-Celik/Personel_Kayit_Programi/assets/72822335/77e5f83a-a514-4b7e-96a0-5c25a1e047fd)
